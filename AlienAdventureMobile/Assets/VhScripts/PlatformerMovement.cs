@@ -10,6 +10,7 @@ public class PlatformerMovement : MonoBehaviour
     public int jumpCount = 0;
     public int maxJumps = 2;
     Animator anim;
+    public Joystick joystick;
 
     private void Start()
     {
