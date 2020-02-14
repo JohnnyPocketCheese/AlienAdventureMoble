@@ -13,6 +13,10 @@ public class movemerMovement : MonoBehaviour
     float moveX = 0;
     float moveY = 0;
     Rigidbody2D rb;
+    float initialMoveSpeed;
+    public float sprintMultiplier = 2;
+    float sprintSpeed;
+    bool sprintKeyDown = false;
 
     public Joystick joystick;
     void Start()
@@ -51,6 +55,20 @@ public class movemerMovement : MonoBehaviour
             Jump();
             jumpCount++;
         }
+        if (Input.GetKeyDown(KeyCode.LeftShift))
+        {
+            if (sprintKeyDown == false)
+            {
+                sprintKeyDown = true;
+                moveSpeed = moveSpeed * sprintMultiplier;
+            }
+        }
+        if (Input.GetKeyUp(KeyCode.LeftShift))
+        {
+            moveSpeed = initialMoveSpeed;
+            sprintKeyDown = false;
+        }
+        anim.SetBool("sprint", sprintKeyDown); //make sure to save and surrende
         float x = Input.GetAxisRaw("Horizontal");
         if(x == 0)
         {
