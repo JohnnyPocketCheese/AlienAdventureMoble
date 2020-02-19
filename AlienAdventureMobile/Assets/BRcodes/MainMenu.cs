@@ -30,11 +30,11 @@ public class MainMenu : MonoBehaviour
     public void LoadNewHardMode()
     {
         PlayerPrefs.SetInt("HardModeEnabled", hardModeEnabled);
-        SceneManager.LoadScene("Level1");
+        SceneManager.LoadScene("Level 1");
     }
     public void LoadLevel2()
     {
-        SceneManager.LoadScene("Level2");
+        SceneManager.LoadScene("Level 2");
     }
     public void LoadMainMenu()
     {
