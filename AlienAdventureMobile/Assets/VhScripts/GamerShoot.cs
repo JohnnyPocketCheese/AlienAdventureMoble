@@ -4,15 +4,16 @@ using UnityEngine;
 
 public class GamerShoot : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
+    public Transform firePoint;
+    public GameObject bulletPrefab;
     // Update is called once per frame
     void Update()
     {
-        
+      
+    }
+
+    public void Shoot()
+    {
+        Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
     }
 }
