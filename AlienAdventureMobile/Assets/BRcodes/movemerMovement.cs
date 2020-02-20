@@ -17,6 +17,7 @@ public class movemerMovement : MonoBehaviour
     public float sprintMultiplier = 2;
     float sprintSpeed;
     bool sprintKeyDown = false;
+    private bool m_FacingRight = true;
 
     public Joystick joystick;
     void Start()
@@ -42,6 +43,14 @@ public class movemerMovement : MonoBehaviour
         else
         {
             moveX = 0;
+        }
+        if (moveX > 0 && !m_FacingRight)
+        {
+            Flip();
+        }
+        else if (moveX < 0 && m_FacingRight)
+        {
+            Flip();
         }
         //float moveX = Input.GetAxis("Horizontal");
         Vector2 velocity = GetComponent<Rigidbody2D>().velocity;
@@ -147,5 +156,11 @@ public class movemerMovement : MonoBehaviour
     {
         Jump();
         jumpCount++;
+    }
+    private void Flip()
+    {
+        m_FacingRight = !m_FacingRight;
+
+        transform.Rotate(0f, 180f, 0f);
     }
 }
