@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 6236443738439029464}
   - component: {fileID: 2135804915503179593}
   - component: {fileID: 487881378151946069}
+  - component: {fileID: 494369718725703721}
   m_Layer: 0
   m_Name: BulletBoi
   m_TagString: Untagged
@@ -119,3 +120,17 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 2.56
+--- !u!114 &494369718725703721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9103576095745127403}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37d6d91a5bb34a94d9bc9c8347db544e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 20
+  rb: {fileID: 2135804915503179593}
