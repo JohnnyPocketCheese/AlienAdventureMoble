@@ -30,15 +30,10 @@ public class movemerMovement : MonoBehaviour
         if (joystick.Horizontal >= 0.2f)
         {
             moveX = 1;
-            GetComponent<SpriteRenderer>().flipX = false;
-            GetComponent<SpriteRenderer>().color = Color.red;
         }
         else if (joystick.Horizontal <= -0.2f)
         {
             moveX = -1;
-            GetComponent<SpriteRenderer>().flipX = true;
-            GetComponent<SpriteRenderer>().color = Color.blue;
-
         }
         else
         {
