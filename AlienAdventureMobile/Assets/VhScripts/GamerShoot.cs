@@ -8,6 +8,7 @@ public class GamerShoot : MonoBehaviour
     public GameObject bulletPrefab;
     public Animator animator;
     bool shooting;
+    public float shootDelay = 1.0f;
     float timer;
     public float shootAnimDelay = 0.8f;
 
@@ -23,10 +24,12 @@ public class GamerShoot : MonoBehaviour
 
     public void Shoot()
     {
-        animator.SetTrigger("GUN");
-        Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
-        shooting = true;
-        timer = 0;
-
+        if (shooting && timer > shootDelay)
+        {
+            animator.SetTrigger("GUN");
+            Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+            shooting = true;
+            timer = 0;
+        }
     }
 }
