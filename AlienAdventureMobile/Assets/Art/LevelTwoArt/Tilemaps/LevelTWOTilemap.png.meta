@@ -1,0 +1,703 @@
+fileFormatVersion: 2
+guid: 15351a55eb7d66741bb25ca98b08a20d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6177646432283769434
+    second: LevelTWOTilemap_0
+  - first:
+      213: 1304273798578550835
+    second: LevelTWOTilemap_1
+  - first:
+      213: 4701381840942674533
+    second: LevelTWOTilemap_2
+  - first:
+      213: -420226867638211468
+    second: LevelTWOTilemap_3
+  - first:
+      213: -6035388746431310431
+    second: LevelTWOTilemap_4
+  - first:
+      213: 2827348276302193309
+    second: LevelTWOTilemap_5
+  - first:
+      213: 8279248416754251343
+    second: LevelTWOTilemap_6
+  - first:
+      213: -8007270872444095727
+    second: LevelTWOTilemap_7
+  - first:
+      213: -5802944590681404929
+    second: LevelTWOTilemap_8
+  - first:
+      213: 4887366805973001344
+    second: LevelTWOTilemap_9
+  - first:
+      213: 2011763997548062069
+    second: LevelTWOTilemap_10
+  - first:
+      213: 4694199234834186001
+    second: LevelTWOTilemap_11
+  - first:
+      213: -1280392409880249589
+    second: LevelTWOTilemap_12
+  - first:
+      213: -8496857997182748746
+    second: LevelTWOTilemap_13
+  - first:
+      213: -2875573529748291556
+    second: LevelTWOTilemap_14
+  - first:
+      213: 6902072751599929468
+    second: LevelTWOTilemap_15
+  - first:
+      213: 7616138938138442421
+    second: LevelTWOTilemap_16
+  - first:
+      213: -6203172478255445486
+    second: LevelTWOTilemap_17
+  - first:
+      213: 4277216953324583350
+    second: LevelTWOTilemap_18
+  - first:
+      213: 2693975389792747466
+    second: LevelTWOTilemap_19
+  - first:
+      213: -4278756387623580173
+    second: LevelTWOTilemap_20
+  - first:
+      213: 8249543330350265018
+    second: LevelTWOTilemap_21
+  - first:
+      213: 159243043045309504
+    second: LevelTWOTilemap_22
+  - first:
+      213: 8413796219319926743
+    second: LevelTWOTilemap_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LevelTWOTilemap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12546480c7ad3e84da561cd667632206
+      internalID: -6177646432283769434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1320
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784562253c8088641a588a856d40c8e8
+      internalID: 1304273798578550835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce67d72669ff06b4f987b5fa342f7f3b
+      internalID: 4701381840942674533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af0a5df91ad2bf47ae26063a2db173b
+      internalID: -420226867638211468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dddbeb3b4f9624b852df5afcbd406c
+      internalID: -6035388746431310431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1080
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b377e7465c4fc54cb1126b226a4531b
+      internalID: 2827348276302193309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc18220e8779abc41a9d21d9465bb04f
+      internalID: 8279248416754251343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 960
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7d79efe8f915147a16b7f07566639c
+      internalID: -8007270872444095727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c395fa1864368a4ea838e5d6c68f2f4
+      internalID: -5802944590681404929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 840
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7664f9c3e7e64844a3b53feae3d5296
+      internalID: 4887366805973001344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c60625c4c4c614cb4b9e2263e0d8aa
+      internalID: 2011763997548062069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 720
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1037ad40d163443b12ac0bd5a7d16e
+      internalID: 4694199234834186001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbc253a4d810774ba636640f172d877
+      internalID: -1280392409880249589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4d628a6ff3c9c4db94f1add41df2c9
+      internalID: -8496857997182748746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfeaf1a683a3f64cabf39cebf32d007
+      internalID: -2875573529748291556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 480
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cb92f790dcd1a4f901cb668978aae6
+      internalID: 6902072751599929468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2a932b884acc14a836806267ec963b
+      internalID: 7616138938138442421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_17
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 360
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e61a4bbc04f0e42804b4f50908d9de
+      internalID: -6203172478255445486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562af833d8d887649803eca0eec044d6
+      internalID: 4277216953324583350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 240
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff60b2ab118c2e47866caf7d01fcfa2
+      internalID: 2693975389792747466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882df17e33152614eaceb2a01d4a59ec
+      internalID: -4278756387623580173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 120
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984123917ff3fef48bd11bed9a3a9ca7
+      internalID: 8249543330350265018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040c8616052088244af208e141f8fd96
+      internalID: 159243043045309504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelTWOTilemap_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1576627a3d45904e857eba0dcb59f4b
+      internalID: 8413796219319926743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
