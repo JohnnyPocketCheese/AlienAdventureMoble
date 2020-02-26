@@ -24,8 +24,9 @@ public class GamerShoot : MonoBehaviour
 
     public void Shoot()
     {
-        if (shooting && timer > shootDelay)
+        if (timer > shootDelay)
         {
+            timer = 0;
             animator.SetTrigger("GUN");
             Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
             shooting = true;
