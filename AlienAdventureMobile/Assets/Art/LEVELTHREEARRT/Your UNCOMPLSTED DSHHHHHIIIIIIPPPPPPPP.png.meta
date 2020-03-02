@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 41a0545fd1c05ed4a8304f88dfd4af6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1211611822973376747
+    second: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_0
+  - first:
+      213: -7733971299509862396
+    second: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_1
+  - first:
+      213: -5365746523176602239
+    second: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_2
+  - first:
+      213: 4326075595501670633
+    second: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_3
+  - first:
+      213: -2832733768304970783
+    second: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_4
+  - first:
+      213: 4354703105139304963
+    second: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_5
+  - first:
+      213: -4112434239664844862
+    second: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_6
+  - first:
+      213: 4106967644375659670
+    second: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_7
+  - first:
+      213: -523869448809310693
+    second: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_8
+  - first:
+      213: -6831661754755803972
+    second: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_9
+  - first:
+      213: 5963829040829148614
+    second: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_10
+  - first:
+      213: -923298304863091405
+    second: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_11
+  - first:
+      213: 5099755990975126901
+    second: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_12
+  - first:
+      213: 4569110473340515161
+    second: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_13
+  - first:
+      213: -8862091065613803869
+    second: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_14
+  - first:
+      213: 793449374366569482
+    second: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1fddf3fc37f6546a5026b7bce588d7
+      internalID: -1211611822973376747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 600
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957efee322913514aaef80ea466909d7
+      internalID: -7733971299509862396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 600
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf272bc681442e459aac34aef343bee
+      internalID: -5365746523176602239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f9bbd7cfadc2440a01fb1571d42695
+      internalID: 4326075595501670633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b19fff3d3624f4abe1b541e279aed2
+      internalID: -2832733768304970783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2638453220cc2a2449cbd41e5ed3e117
+      internalID: 4354703105139304963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbd80dc597ef134eb18fdfc435580bc
+      internalID: -4112434239664844862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65316aef7c1bc62428fd4f936575f3dc
+      internalID: 4106967644375659670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 360
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5546246991bfa4181428cc80e39b2e
+      internalID: -523869448809310693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887e20f2bf4884b439bd8221a79fcdfc
+      internalID: -6831661754755803972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7084f0e1c80aa14889aff89a948f91b
+      internalID: 5963829040829148614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f359d4dc654a30d48a9b886e06012322
+      internalID: -923298304863091405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b8bbb38e7bfc24e9743026ed784ed9
+      internalID: 5099755990975126901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2028ad07c6937f74dafe65e7bf235a6e
+      internalID: 4569110473340515161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 120
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437d30d5221be904f93731a658b88b7d
+      internalID: -8862091065613803869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Your UNCOMPLSTED DSHHHHHIIIIIIPPPPPPPP_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cb3ccaea167b44db736d4e7ffd5bb6
+      internalID: 793449374366569482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
