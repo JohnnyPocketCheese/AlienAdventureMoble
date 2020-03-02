@@ -8,7 +8,8 @@ public class AiEnemy : MonoBehaviour
     Transform player;
     public float agroRange;
     public float moveSpeed;
-
+    public Animator animator;
+    public bool startChasing;
     Rigidbody2D rb2d;
     // Start is called before the first frame update
     void Start()
@@ -19,19 +20,33 @@ public class AiEnemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        animator.SetFloat("x", GetComponent<Rigidbody2D>().velocity.x);
+        animator.SetFloat("y", GetComponent<Rigidbody2D>().velocity.y);
+
         //distance to player
         float distToPlayer = Vector2.Distance(transform.position, player.position);
         
         if(distToPlayer < agroRange)
         {
+            startChasing = true;
+            StartCoroutine(Anim());
             ChasePlayer();
         }
         else
         {
+            startChasing = false;
             StopChasingPlayer();
         }
     }
-    void ChasePlayer()
+    public IEnumerator Anim()
+    {
+        print("Chase");
+        animator.SetBool("ChasePlayer", true);
+        yield return new WaitForSeconds(0.25f);
+        animator.SetBool("ChasePlayer", false);
+        animator.SetBool("ChasingPlayer", true);
+    }
+    public void ChasePlayer()
     {
         if(transform.position.x < player.position.x)
         {
@@ -47,8 +62,9 @@ public class AiEnemy : MonoBehaviour
         }
     }
 
-    void StopChasingPlayer()
+    public void StopChasingPlayer()
     {
+        print("Stop");
         rb2d.velocity = Vector2.zero;
     }
 }

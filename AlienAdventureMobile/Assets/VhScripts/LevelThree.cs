@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 using UnityEngine;
 
-public class LevelTwo : MonoBehaviour
+public class LevelThree : MonoBehaviour
 {
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == "level 2")
+        if (collision.gameObject.tag == "level 3")
         {
-            SceneManager.LoadScene("level 2");
+            SceneManager.LoadScene("level 3");
         }
     }
 }
