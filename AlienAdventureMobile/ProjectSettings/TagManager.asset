@@ -8,6 +8,7 @@ TagManager:
   - Bullet
   - level 2
   - level 3
+  - Win
   layers:
   - Default
   - TransparentFX
